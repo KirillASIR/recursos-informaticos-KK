@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+th{
+    border: 3px solid black;
+    text-align: center;
+    padding: 15px;
+    background-color: lightgrey;
+    border-color: black;
+}
+td{
+    border: 3px solid black;
+    text-align: center;
+    padding: 15px;
+    border-color: black;
+}
+.PARE{
+    background-color: aqua;
+}
+.ISO{
+    background-color: blueviolet;
+}
+.GBD{
+    background-color: brown;
+}
+.LMSGL{
+    background-color: chartreuse;
+}
+.INGLES{
+    background-color: cadetblue;
+}
+.EDE{
+    background-color: darkgreen;
+}
+.FHW{
+    background-color: hotpink;
+}
+.IPE1{
+    background-color: mediumpurple;
+}
+.PROYECTO{
+    background-color: darkorange;
+}
